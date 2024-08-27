@@ -1,0 +1,19 @@
+.header
+{
+    background-color: #080808;
+
+    height: 1000px;
+    width: 100%;
+}
+ul li
+{
+    color:white;
+    display: inline-block;
+
+}
+.navBar
+{
+  background-color: #1b1b1b; 
+  
+  height: 100px;
+}
