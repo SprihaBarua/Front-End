@@ -1,19 +1,48 @@
+body
+{
+  font-family: 'Courier New';
+
+}
 .header
 {
     background-color: #080808;
-
-    height: 1000px;
+    color:white;
+    height: auto;
     width: 100%;
 }
 ul li
 {
-    color:white;
-    display: inline-block;
+    
+    display: inline;
+    padding-right: 4%;
+    padding-left: 4%;
+    font-size: large;
 
 }
 .navBar
 {
   background-color: #1b1b1b; 
   
-  height: 100px;
+  height: 25%;
+  margin: 0% 5% 0% 5%;
+  padding: 3% 3% 3% 3%;
+
+}
+.details
+{
+  background-color: aquamarine;
+  height: auto;
+  width: 20%;
+  margin-left: 5%;
+  font-size: x-large;
+}
+.details ul li
+{
+  margin: 10% 12%;
+  font-size: 100px;
+  height: auto;
+  width: 20%;
+  background-color: lawngreen;
+  
+
 }
