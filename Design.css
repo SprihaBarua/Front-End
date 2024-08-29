@@ -10,7 +10,7 @@ body
     height: auto;
     width: 100%;
 }
-ul li
+.header ul li
 {
     
     display: inline;
@@ -32,17 +32,11 @@ ul li
 {
   background-color: aquamarine;
   height: auto;
-  width: 20%;
-  margin-left: 5%;
-  font-size: x-large;
+  width: 25%;
+  margin-left: 8%;
 }
-.details ul li
+.block ul li
 {
-  margin: 10% 12%;
-  font-size: 100px;
-  height: auto;
-  width: 20%;
-  background-color: lawngreen;
-  
-
+  display: inline-block;
 }
+
