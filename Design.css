@@ -5,10 +5,10 @@ body
 }
 .header
 {
-    background-color: #080808;
-    color:white;
-    height: 500%;
-    width: 100%;
+  background-color: #080808;
+  color:white;
+  height: 500%;
+  width: 100%;
 }
 .nav ul li
 {
@@ -38,7 +38,7 @@ body
 .worked
 {
   width: 75%;
-  margin-left: 11%;
+  margin-left: 11.3%;
   margin-top: 15%;
   padding-bottom: 2%;
 }
@@ -48,5 +48,78 @@ body
   padding-right: 8%;
   padding-left: 6%;
   font-size: large;
-
+}
+.MainBody
+{
+  background-color: #ffffff;
+}
+.cases
+{
+  text-align: center;
+}
+.case1
+{
+  height: auto;
+  width: 30%;
+  margin-top: 10%;
+  margin-left: 11.2%;
+}
+.case11 img
+{
+  border-radius: 10%;
+  float: right;
+  height: 20%;
+  width: 20%;
+  margin-right: 15%;
+  margin-top: 9%;
+}
+.case22 img
+{
+  float: left;
+  border-radius: 10%;
+  height: 20%;
+  width: 20%;
+  margin-left: 12%;
+  margin-top: 9%;
+}
+.case2
+{
+  height: auto;
+  width: 30%;
+  margin-top: 10%;
+  margin-left: 60%;
+}
+.SubBody
+{
+  background-color: #080808;
+  margin-top: 5%;
+  color:white;
+}
+.sub_up
+{
+  text-align: center;
+}
+.sub1
+{
+  height: 20%;
+  width: 20%;
+  margin-left: 11%;
+  margin-top: 9%;
+}
+.sub2
+{
+  float: right;
+  height: 20%;
+  width: 20%;
+  margin-right: 13%;
+  margin-top: -11.5%;
+}
+.subFooter
+{
+  background-color: #ffffff;
+}
+.subFoot1
+{
+  text-align: center;
+  margin-top: 3%;
 }
