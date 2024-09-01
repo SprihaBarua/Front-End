@@ -123,3 +123,32 @@ body
   text-align: center;
   margin-top: 3%;
 }
+.image1 img
+{
+  height: 18%;
+  width: 20%;
+  margin-left: 11%;
+  margin-top: 5%;
+}
+.image2 img
+{  
+  height: 30%;
+  width: 20%;
+  margin-left: 67.5%;
+  margin-top: -15.2%;
+  float: left;
+}
+.Footer
+{
+  background-color: #080808;
+  color: #ffffff;
+  padding-top: 5%;
+}
+.texts
+{
+  text-align: center;
+}
+form
+{
+  margin-left: 50%;
+}
